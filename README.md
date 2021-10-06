@@ -18,6 +18,12 @@ Zvanični sajt kursa: [http://ni.matf.bg.ac.rs/](http://ni.matf.bg.ac.rs/)
 | 4 | Furijeova transformacija - uvodni primeri za rad sa signalima, zvukom i slikama |
 | 5 | Furijeova transformacija - primene u radu sa slikama |
 | 6 | Furijeova transformacija - premene u radu sa signalima |
+| 7 | Sopstvene vrednosti i sopstveni vektori - algoritmi izračunavanja, PCA i sopstvena lica |
+| 8 | Pagerank algoritam - implementacija, podrška paketa `networkx` i primer sumarizacije dokumenata |
+| 9 | Retke matrice - formati zapisa, bibliotečka podrška i primer primene u sistemima pretraživanja informacija |
+| 10 | Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti |
+| 11 | Optimizacija - bibliotečka podrška u problemima optimizacije sa i bez ograničenja; lokalna pretraga |
+| 12 | Modelovanje optimizacionih problema korišćenjem Pyomo biblioteke |
 
 
 Za pristup sveskama koje koristimo na času pogledajte `live` granu.
@@ -30,8 +36,12 @@ Za pristup sveskama koje koristimo na času pogledajte `live` granu.
 | 4 | [Furijeova transformacija - uvodni primeri za rad sa signalima, zvukom i slikama](https://matf.webex.com/matf/ldr.php?RCID=4dc8dd7fe2f447fe9f3fa57e546eff14)|
 | 5 | [Furijeova transformacija - primene u radu sa slikama](https://matf.webex.com/matf/ldr.php?RCID=3a231c920d994078af2f69147f3ec3c9)|
 | 6 | Furijeova transformacija - premene u radu sa signalima - TBA |
-
-
+| 7 | [Sopstvene vrednosti i sopstveni vektori - algoritmi izračunavanja, PCA i sopstvena lica](https://matf.webex.com/matf/ldr.php?RCID=8a2a872070844f0bb779a0bc156aab92) |
+| 8 | [Pagerank algoritam - implementacija, podrška paketa `networkx` i primer sumarizacije dokumenata](https://matf.webex.com/matf/ldr.php?RCID=fcaaec270b6e42329850ba38d798fe00) |
+| 9 | [Retke matrice - formati zapisa, bibliotečka podrška i primer primene u sistemima pretraživanja informacija](https://matf.webex.com/matf/ldr.php?RCID=8d6aa68dd2254dd2a1429362437de841) |
+| 10 | [Dekompozicije matrica - LU, Čoleski i SVD dekompozicije, kompresija slika, sistemi preporuka i predikcija nedostajućih vrednosti](https://matf.webex.com/matf/ldr.php?RCID=02aa5e1dcbb7405ba981b9452af0d694)|
+| 11 | [Optimizacija - bibliotečka podrška problemima optimizacije sa i bez ograničenja; lokalna pretraga](https://matf.webex.com/matf/ldr.php?RCID=0ce39c09ace94fbcb4d43aad5dab1220) |
+| 12 | [Modelovanje optimizacionih problema korišćenjem Pyomo biblioteke](https://matf.webex.com/matf/ldr.php?RCID=1d51c5a20b4142e1b7e019f5f67035c2)|
 
 # Tehnologije
 
